@@ -1,0 +1,6 @@
+c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\Kliens\bin\Debug\Kliens.exe.config
+c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\Kliens\bin\Debug\Kliens.exe
+c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\Kliens\bin\Debug\Kliens.pdb
+c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\Kliens\obj\Debug\Kliens.csprojResolveAssemblyReference.cache
+c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\Kliens\obj\Debug\Kliens.exe
+c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\Kliens\obj\Debug\Kliens.pdb
