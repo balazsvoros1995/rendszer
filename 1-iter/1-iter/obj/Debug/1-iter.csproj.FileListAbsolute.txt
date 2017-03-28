@@ -1,0 +1,12 @@
+c:\users\vörös balázs\documents\visual studio 2015\Projects\1-iter\1-iter\bin\Debug\1-iter.exe.config
+c:\users\vörös balázs\documents\visual studio 2015\Projects\1-iter\1-iter\obj\Debug\1-iter.csprojResolveAssemblyReference.cache
+c:\users\vörös balázs\documents\visual studio 2015\Projects\1-iter\1-iter\bin\Debug\1-iter.exe
+c:\users\vörös balázs\documents\visual studio 2015\Projects\1-iter\1-iter\bin\Debug\1-iter.pdb
+c:\users\vörös balázs\documents\visual studio 2015\Projects\1-iter\1-iter\obj\Debug\1-iter.exe
+c:\users\vörös balázs\documents\visual studio 2015\Projects\1-iter\1-iter\obj\Debug\1-iter.pdb
+C:\Users\Márk\Downloads\1-iter-20170327T085152Z-001\1-iter\1-iter\bin\Debug\1-iter.exe.config
+C:\Users\Márk\Downloads\1-iter-20170327T085152Z-001\1-iter\1-iter\obj\Debug\1-iter.exe
+C:\Users\Márk\Downloads\1-iter-20170327T085152Z-001\1-iter\1-iter\obj\Debug\1-iter.pdb
+C:\Users\Márk\Downloads\1-iter-20170327T085152Z-001\1-iter\1-iter\bin\Debug\1-iter.exe
+C:\Users\Márk\Downloads\1-iter-20170327T085152Z-001\1-iter\1-iter\bin\Debug\1-iter.pdb
+C:\Users\Márk\Downloads\1-iter-20170327T085152Z-001\1-iter\1-iter\obj\Debug\1-iter.csprojResolveAssemblyReference.cache

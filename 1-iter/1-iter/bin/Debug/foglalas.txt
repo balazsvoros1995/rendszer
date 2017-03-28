@@ -1,0 +1,3 @@
+3 baluka 2017.3.21. False True
+1 baluka 2018.3.30. True False
+4 pistike 2017.3.22. False False

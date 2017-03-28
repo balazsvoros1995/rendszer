@@ -4,3 +4,9 @@ c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\Kliens\bi
 c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\Kliens\obj\Debug\Kliens.csprojResolveAssemblyReference.cache
 c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\Kliens\obj\Debug\Kliens.exe
 c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\Kliens\obj\Debug\Kliens.pdb
+C:\Users\Márk\.ssh\rendszer\Szerver\Kliens\bin\Debug\Kliens.exe.config
+C:\Users\Márk\.ssh\rendszer\Szerver\Kliens\obj\Debug\Kliens.exe
+C:\Users\Márk\.ssh\rendszer\Szerver\Kliens\obj\Debug\Kliens.pdb
+C:\Users\Márk\.ssh\rendszer\Szerver\Kliens\bin\Debug\Kliens.exe
+C:\Users\Márk\.ssh\rendszer\Szerver\Kliens\bin\Debug\Kliens.pdb
+C:\Users\Márk\.ssh\rendszer\Szerver\Kliens\obj\Debug\Kliens.csprojResolveAssemblyReference.cache

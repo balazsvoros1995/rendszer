@@ -1,0 +1,6 @@
+1	francia	tenger
+2	egy	hegy
+3	ketto	tenger
+4	francia	tenger
+5	egy	tenger
+6	ketto	hegy

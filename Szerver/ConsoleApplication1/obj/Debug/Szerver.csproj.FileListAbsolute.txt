@@ -4,3 +4,9 @@ c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\ConsoleAp
 c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\ConsoleApplication1\obj\Debug\Szerver.csprojResolveAssemblyReference.cache
 c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\vörös balázs\documents\visual studio 2015\Projects\Szerver\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Márk\.ssh\rendszer\Szerver\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Márk\.ssh\rendszer\Szerver\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Márk\.ssh\rendszer\Szerver\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Márk\.ssh\rendszer\Szerver\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Márk\.ssh\rendszer\Szerver\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Márk\.ssh\rendszer\Szerver\ConsoleApplication1\obj\Debug\Szerver.csprojResolveAssemblyReference.cache
